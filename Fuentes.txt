@@ -1,0 +1,5 @@
+https://code.tutsplus.com/es/introduction-to-network-programming-in-python--cms-30459t
+
+https://es.stackoverflow.com/questions/333544/http-response-cliente-js-y-servidor-con-socket-python#:~:text=He%20implementado%20un%20servidor%20TCP%20mediante
+
+https://www.youtube.com/watch?v=nJYp3_X_p6c&t=491s
